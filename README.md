@@ -1,1 +1,1 @@
-# znakomstvo-s-yazykom-python-final-homework-10
+# znakomstvo-s-yazykom-python
